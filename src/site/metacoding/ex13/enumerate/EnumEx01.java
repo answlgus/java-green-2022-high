@@ -1,5 +1,7 @@
 package site.metacoding.ex13.enumerate;
 
+
+// 인터페이스의 변수는 public static final이 생략되어 있음
 interface Direction {
 	String LEFT = "Left";
 	String RIGHT = "Right";
